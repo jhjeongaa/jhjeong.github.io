@@ -44,6 +44,7 @@ The soft elastomeric capacitive (SEC) sensor is a capacitance-based stretchable 
 Prototype high-sensitive capacitive sensor board
 
 <img src="https://github.com/jhjeongaa/jhjeongaa.github.io/blob/master/_data/figureVoltPCAP.png?raw=true" alt="drawing" height="300"/>
+
 Dynamic test result compared with commercial capacitance sensor (PCAP02)
 
 * Jeong, J. H., Xu, J., Jo, H., Li, J., Kong, X., Collins, W., ... & Lafamme, S. (2018). Development of wireless sensor node hardware for large-area capacitive strain monitoring. Smart Materials and Structures, 28(1), 015002., https://doi.org/10.1088/1361-665X/aaebc6
