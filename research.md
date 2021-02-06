@@ -1,7 +1,7 @@
 
 #### 1. Wireless soft capacitive strain sensor node development
 
-<iframe src="https://www.youtube.com/embed/videoseries?list=UUJhHaq56JKvZlAQ32OH71nQ&index=0" frameborder="0"allowfullscreen> 
+<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
 
 <img src="https://github.com/jhjeongaa/jhjeongaa.github.io/blob/master/_data/r1_sensorboard.png" alt="drawing" height="300"/><img src="https://github.com/jhjeongaa/jhjeongaa.github.io/blob/master/_data/figureVoltPCAP.png?raw=true" alt="drawing" height="300"/>
 
