@@ -21,9 +21,9 @@ I am a PhD Candidate in the Department of Civil & Architectural Engineering & Me
 * "Convolutional Neural Networks for Pavement Roughness Assessment Using Calibration-Free Vehicle Dynamics", PI, $20k, **Tech Launch Arizona**
 
 #### Teaching
-* CE389 - Materials testing labortory [F2019, Sp2020]
+* CE389 - Instructor - Materials testing labortory [F2019, Sp2020]
 
 #### In the News
-* Graduate Student Wins Funding from Innovation Challenge
-* Student Innovation Challenge Winning Projects Announced, Projects Funded to Move Toward Commercialization
+* [Graduate Student Wins Funding from Innovation Challenge!](https://caem.engineering.arizona.edu/news-events/graduate-student-wins-funding-innovation-challenge)
+* [Student Innovation Challenge Winning Projects Announced, Projects Funded to Move Toward Commercialization!](https://techlaunch.arizona.edu/news/2020/08/student-innovation-challenge-winning-projects-announced-projects-funded-move-toward)
 
