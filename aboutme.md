@@ -15,7 +15,7 @@ I am a PhD Candidate in the Department of Civil & Architectural Engineering & Me
 #### Employment
 * **The University of Arizona (2016-Present)** Graduate Assistant
 * **Konkuk University (2015)** Researcher
-* **Konkuk University (2013-2015)** Graduate Research Assistant
+* **Konkuk University (2013-2014)** Graduate Research Assistant
 
 #### Funding
 * "Convolutional Neural Networks for Pavement Roughness Assessment Using Calibration-Free Vehicle Dynamics", PI, $20k, **Tech Launch Arizona**
