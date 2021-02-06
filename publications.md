@@ -4,7 +4,9 @@
 
 ---
 #### Journal publications
-
+* **Jeong J. H**, Jo H., "Development of deep-learning based real-time pavement roughness assessment smartphone application and experimental validation" _(in preparation)_
+* **Jeong J. H**, Jo, H., Li, J., Collins, W., Lafamme, S. "Fully automated wireless capacitive strain sensing node development for high-sensitive, large area strain monitoring" _(in preparation)_
+* **Jeong J. H**, Jo H., "Vision based long-term dynamic displacement monitoring system development and validation for wind induced structural vibration monitoring" _(in preparation)_
 * **Jeong, J. H.**, Jo, H. Real-time generic target tracking for structural displacement monitoring under environmental uncertainties via deep learning. _Structural Control and Health Monitoring_ (in review)
 * **Jeong, J. H.**, Jo, H. Deep reinforcement learning for automated reinforced concrete structural design. _Computer‐Aided Civil and Infrastructure Engineering_ (in review)
 * **Jeong, J. H.**, Jo, H., & Ditzler, G. (2020). Convolutional neural networks for pavement roughness assessment using calibration‐free vehicle dynamics. _Computer‐Aided Civil and Infrastructure Engineering_, 35(11), 1209-1229.(IF: 8.552), Top journal within Civil Engineering discipline
