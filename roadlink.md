@@ -12,7 +12,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiamhqZW9uZ2FhIiwiYSI6ImNra2RuajU3NjAwOXcycW85N
 var map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/mapbox/streets-v11', // stylesheet location
-center: [-74.5, 40], // starting position [lng, lat]
+center: [-110.88, 32.18], // starting position [lng, lat]
 zoom: 9 // starting zoom
 });
   
@@ -24,7 +24,7 @@ map.on('load', function() {
       type: 'vector',
       url: 'mapbox://mapbox.mapbox-terrain-v2'
     },
-    'source-layer': 'contour'
+    'source-layer': 'dark'
   });
 });  
   
