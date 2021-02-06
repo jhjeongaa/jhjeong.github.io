@@ -40,6 +40,7 @@ Conventional resistive-type strain sensing methods have limitations in large-are
  While recent advances in wireless sensor technologies have provided an attractive alternative to wired and centralized SHM, the capacitive strain sensing methods have not benefitted from the wireless approaches due to the lack of appropriate hardware element. This study develops a wireless sensor board to use the SEC sensor in combination with a wireless sensor network for SHM by addressing key implementation challenges.
 
 <img src="https://github.com/jhjeongaa/jhjeongaa.github.io/blob/master/_data/r1_sensorboard.png" alt="drawing" height="300"/>
+
 <img src="https://github.com/jhjeongaa/jhjeongaa.github.io/blob/master/_data/figureVoltPCAP.png?raw=true" alt="drawing" height="300"/>
 
 * Jeong, J. H., Xu, J., Jo, H., Li, J., Kong, X., Collins, W., ... & Lafamme, S. (2018). Development of wireless sensor node hardware for large-area capacitive strain monitoring. Smart Materials and Structures, 28(1), 015002., https://doi.org/10.1088/1361-665X/aaebc6
