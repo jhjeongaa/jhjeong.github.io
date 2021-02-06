@@ -24,7 +24,7 @@ map.on('load', function() {
       type: 'vector',
       url: 'mapbox://mapbox.mapbox-terrain-v2'
     },
-    'source-layer': 'dark'
+    'source-layer': 'contour'
   });
 });  
   
